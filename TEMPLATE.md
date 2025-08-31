@@ -2,21 +2,21 @@
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
-timestamp: "2025-01-15"
+github_username: "ricko130911e"
+discord_id: "605951867406647307"
+timestamp: "2025-08-31"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
+- **Name**: Ricko Yanuar
+- **GitHub**: @ricko130911
+- **Discord**: rickoyanuar13#5823
 - **Experience**: Brief background
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
+- **Project**: SoundnessDev
 - **Category**: identity/defi/social/gaming/infrastructure/other
 
 ### Description
